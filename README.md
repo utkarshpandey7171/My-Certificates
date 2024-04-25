@@ -7,3 +7,4 @@
 # DSA in Jun. 2023-Sep.2023 (Coding Ninja).
 # Internship in Coding Ninja as TA (15sep.2023 to 15jan.2024). 
 # 100days streak on leetcode (come amongs 4.2% of leetcoder) .
+# Sql in 25 march 2024 (Udemy).
