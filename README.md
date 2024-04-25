@@ -6,4 +6,4 @@
 # Internship in Oasis (15/04/2023)
 # DSA in Jun. 2023-Sep.2023 (Coding Ninja).
 # Internship in Coding Ninja as TA (15sep.2023 to 15jan.2024). 
-# 100days streak on leetcode (comes amongs 4.2% in leetcode) .
+# 100days streak on leetcode (come amongs 4.2% of leetcoder) .
